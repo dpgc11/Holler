@@ -1,2 +1,2 @@
-# Holler
+# Holler App
 Android App
